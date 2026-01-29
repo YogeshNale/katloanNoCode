@@ -1,3 +1,29 @@
+<<<<<<< HEAD
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+.cache/
+=======
 # Compiled class file
 *.class
 
@@ -22,3 +48,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+>>>>>>> branch 'development' of https://github.com/YogeshNale/katloanNoCode.git
