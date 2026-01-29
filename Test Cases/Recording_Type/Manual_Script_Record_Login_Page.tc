@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manual_Script_Record_Login_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7973486a-ab5d-49c6-8c66-59ddaf85e342</testCaseGuid>
+</TestCaseEntity>
